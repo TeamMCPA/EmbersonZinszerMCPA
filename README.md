@@ -1,5 +1,5 @@
 # EmbersonZinszerMCPA
-Implement multivariate channel analysis (MCPA) with NIRS a la Emberson, Zinszer, Raizada and Aslin
+Implement multichannel pattern analysis (MCPA) with NIRS a la Emberson, Zinszer, Raizada and Aslin
 
 If you want to be alerted of updates to the code, please email Benjamin Zinszer bzinszer@gmail.com. You will only receive emails if there are significant changes made to the code. Alternatively, come back and visit this github repository because changes will be pushed to this location.
 
